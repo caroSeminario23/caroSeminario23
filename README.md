@@ -1,4 +1,15 @@
 # Hola ✌
-- Soy una estudiante de Ingeniería de Sistemas (ya casi de 8vo ciclo).
-- Estoy aprendiendo cada vez más lenguajes de programación entre ellos C++, Java, Python, HTML, CSS y JavaScritp.
-- Estoy siempre dispuesta a aprender sobre el diseño, implementación y mejora de sistemas.
+
+- Soy una estudiante de Ingeniería de Sistemas en el 8vo ciclo.
+- Estoy en constante aprendizaje de lenguajes de programación como:
+  - Python
+  - C++
+  - Java
+  - HTML
+  - CSS
+  - JavaScript
+  - Kotlin
+  - CLIPS.
+
+- También estoy explorando frameworks como Flask y Angular.
+- Además, siempre estoy dispuesta a aprender sobre el diseño, implementación y mejora de sistemas. 🚀
